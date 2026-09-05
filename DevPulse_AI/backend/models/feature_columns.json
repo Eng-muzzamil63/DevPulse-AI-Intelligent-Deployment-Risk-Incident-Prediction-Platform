@@ -1,0 +1,13 @@
+[
+  "files_changed",
+  "lines_added",
+  "lines_deleted",
+  "test_coverage",
+  "developer_experience",
+  "previous_incidents_30d",
+  "rollback_rate_90d",
+  "deployment_frequency_7d",
+  "database_changes",
+  "services_touched",
+  "hour_of_day"
+]
